@@ -23,9 +23,9 @@ if (currentMonth >= 7) {
 
 if (currentMonth >= 7) {
   Move2.innerHTML = `
-  <img src="accets/img/Avengers.jpg" alt="">
+  <img src="accets/img/Shrek.jpg" alt="">
   <div class="overlay">
-    <a href="https://www.youtube.com/watch?v=6ZfuNTqbHE8" target="_blank">Movie Trailer</a>
+    <a href="https://www.youtube.com/watch?v=ooJJX3R42WM" target="_blank">Movie Trailer</a>
   </div>
   `
 } else if (currentMonth <= 6) {
@@ -39,9 +39,9 @@ if (currentMonth >= 7) {
 
 if (currentMonth >= 7) {
   Move3.innerHTML = `
-  <img src="accets/img/Avengers.jpg" alt="">
+  <img src="accets/img/jedi.jpeg" alt="">
   <div class="overlay">
-    <a href="https://www.youtube.com/watch?v=6ZfuNTqbHE8" target="_blank">Movie Trailer</a>
+    <a href="https://www.youtube.com/watch?v=Q0CbN8sfihY" target="_blank">Movie Trailer</a>
   </div>
   `
 } else if (currentMonth <= 6) {
